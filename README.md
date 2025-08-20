@@ -1,7 +1,7 @@
 # Non-Gaussian State Simulation
 Project for the 10387 Scientific Computing in Quantum Information Science.
 
-Thie project follows Olga Solodovnikova's paper https://arxiv.org/abs/2508.06175, in which she usees coherent state decomposition is simulation non-Gaussian states and circuits. Here, we attempt to recreate part of her results and is not intended to be nearly as comprehensive as her package. Small bits of codes were nipped from her github repository and is labelled accordingly. 
+Thie project follows Olga Solodovnikova's paper https://arxiv.org/abs/2508.06175, in which she uses coherent state decomposition is simulation non-Gaussian states and circuits. Here, we attempt to recreate part of her results and is not intended to be nearly as comprehensive as her package. Small bits of codes were nipped from her github repository and is labelled accordingly. 
 
 Some information on the math and procedure:
 Gaussian states of light has a very well characterized Wigner function precisely due to its Gaussian distribution. Specifically, we can use its covariance matrix and displacement vector to describe it fully. Moreover, any Gaussian operations are simple transformations of the state's covariance matrix and displacement vector.
